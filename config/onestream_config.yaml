@@ -1,0 +1,4 @@
+client_id: ${OS_CLIENT_ID}
+client_secret: ${OS_CLIENT_SECRET}
+refresh_token: ${OS_REFRESH_TOKEN}
+base_url: ${OS_BASE_URL}
