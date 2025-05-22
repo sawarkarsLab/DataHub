@@ -1,0 +1,4 @@
+client_id: ${SF_CLIENT_ID}
+client_secret: ${SF_CLIENT_SECRET}
+refresh_token: ${SF_REFRESH_TOKEN}
+instance_url: ${SF_INSTANCE_URL}
