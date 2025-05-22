@@ -1,0 +1,5 @@
+host: ${SQL_HOST}
+port: ${SQL_PORT}
+user: ${SQL_USER}
+password: ${SQL_PASSWORD}
+database: ${SQL_DB}
