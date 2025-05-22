@@ -1,0 +1,3 @@
+data_directory: ${CSV_DIR}
+schema_file: ${CSV_SCHEMA_FILE}
+delimiter: ","
