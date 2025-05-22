@@ -1,0 +1,3 @@
+qlik_api_key: ${QLIK_API_KEY}
+qlik_host: ${QLIK_HOST}
+qlik_task_id: ${QLIK_TASK_ID}
