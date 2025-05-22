@@ -1,0 +1,5 @@
+client_id: ${SP_CLIENT_ID}
+client_secret: ${SP_CLIENT_SECRET}
+tenant_id: ${SP_TENANT_ID}
+site_id: ${SP_SITE_ID}
+graph_url: https://graph.microsoft.com
